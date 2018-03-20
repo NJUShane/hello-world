@@ -1,2 +1,3 @@
 # hello-world
-just anthor repository
+my name is shane
+this is my first year learning software engineering
